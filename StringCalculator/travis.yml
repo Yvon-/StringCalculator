@@ -1,0 +1,6 @@
+languaje: objetive-c
+osx_image: xcode11.2
+xcode_project: StromgCalculator.xcodeproj
+xcode_scheme: StringCalculator
+xcode_destination: platform=iOS Simulator, name=iPhone 11
+
